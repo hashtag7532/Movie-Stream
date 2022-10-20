@@ -18,7 +18,7 @@ function MovieDetails(){
     return (
     <div>
         <h1>Movie {moviesId}</h1>
-        {cards}
+        <div className='grid grid-cols-4'>{cards}</div>
     </div>
     )
 }

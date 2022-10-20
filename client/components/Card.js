@@ -5,7 +5,7 @@ import "../data"
 
 function Card(props) {
   return (
-    <div className='w-[300px] border border-sky-500'>
+    <div className='w-[300px] border border-sky-500 m-[20px]'>
         <div>
             <Image src={props.coverImg} alt="Movie photo" width={200} height={150} />
         </div>

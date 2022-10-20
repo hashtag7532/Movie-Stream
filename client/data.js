@@ -13,4 +13,54 @@ export default [
         duration: "2.3hrs",
         coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
     },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    {
+        id: 2,
+        title: "Fukrey",
+        rating: "4.0",
+        duration: "2.3hrs",
+        coverImg: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddj2VD56CALQ&psig=AOvVaw2cV8DCKonzP4vUg4Pp1pn_&ust=1666343516449000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjIpr677voCFQAAAAAdAAAAABAE"
+    },
+    
 ]
